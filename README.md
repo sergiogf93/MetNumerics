@@ -51,6 +51,40 @@
 
 * Vowel: Programa per comptar vocals dins d'un string.
 
+# CLASS 3
+
+* sortWords: Programa per manipular strings i extreure les paraules ordenades alfabèticament.
+
+* workSentences: Programa on es defineixen funcions per extreure la llista de paraules d'un string, per comptar el nombre de vocals i consonants; i per trobar l'índex d'una paraula a un string.
+
+* enunciado: Template de workSentences per completar.
+
+* examples: Link a documentació per manipular strings. Exemple de com reemplaçar caràcters d'strings.
+
+* workSentences2: Versió més completa de workSentences.
+
+# CLASS 4
+
+* date_hist_demo: Plot histograma amb dates com a labels pels eixos (NO FUNCIONA EN COLAB PER IMPORTAR L'ARXIU NPY)
+
+* test_linear_eqn: Demana input de l'usuari i resol l'eq lineal A*x = y on A és 3x3, x i y són 3x1
+
+* fortranCauchy: Genera per MonteCarlo una distribució de nombres seguint la distr Cauchy.
+
+* generate_and_plot: Genera per Try-reject una distribució de nombres seguint la distr Cauchy. 
+
+* acceptacionRechazoGaussian: Genera per Try-reject una distribució de nombres seguint la distr Gaussiana. 
+
+* Lambda_example: Exemple de l'ús de funcions lambda per filtrar una llista d'acord a una condició, en aquest cas que un nombre sigui divisible per 13.
+
+* randomwalk5: Genera plots de randomWalks.
+
+* histogram_demo_extended: Genera histogrames de Gaussianes. Ploteja la pdf i la cumulativa.
+
+* histo: Genera un histograma de nombres distribuïts uniformement.
+
+* object_oriented_plots: Tutorial per fer plots de funcions. Stack plots. Multiplots.
+
 # ALTRES
 
 * entrega_programa: Exemple d'una solució a l'entrega de mètodes numèrics.
